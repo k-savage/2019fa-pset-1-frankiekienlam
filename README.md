@@ -1,3 +1,12 @@
+[![Build Status](https://travis-ci.com/csci-e-29/2019fa-pset-1-frankiekienlam.svg?token=xxsc5ESpcN37J7psX2Vp&branch=master)](https://travis-ci.com/csci-e-29/2019fa-pset-1-frankiekienlam)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/1037833af922b27228b9/maintainability)](https://codeclimate.com/repos/5d91407bab1eb5014e000200/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1037833af922b27228b9/test_coverage)](https://codeclimate.com/repos/5d91407bab1eb5014e000200/test_coverage)
+
+
+
+
 # Pset 1
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
